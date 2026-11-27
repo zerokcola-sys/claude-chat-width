@@ -1,0 +1,5 @@
+{
+  "name": "claude-chat-width",
+  "owner": { "name": "zerokcola-sys" },
+  "plugins": [{ "name": "chat-width", "source": "./" }]
+}

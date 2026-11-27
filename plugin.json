@@ -1,0 +1,9 @@
+{
+  "name": "chat-width",
+  "version": "0.1.0",
+  "description": "Limit the chat column width in the Claude Code desktop/web app and keep it centered (adjust with /chat-width)",
+  "license": "MIT",
+  "author": {
+    "name": "zerokcola-sys"
+  }
+}
